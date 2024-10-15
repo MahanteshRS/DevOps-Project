@@ -1,2 +1,4 @@
-# DevOps-Practice-
-This project is intended to build application and deploy, at the same time learn DevOps hands on. 
+# DevOps Practice Project
+# Contents :
+1. E-Book -> containes Slides
+2. Practice -> contains lab exercises
